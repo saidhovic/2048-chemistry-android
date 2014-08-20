@@ -2,6 +2,7 @@
 ============
 
 This is the android port of the 2048 Chemistry http://2048alphabet.com/chemistry/ game made by Misho M. Petkovic https://plus.google.com/u/0/+MishoMPetkovic/ 
+
 It's nothing fancy, just a webview that loads the localy stored html files of the original game. 
 App require full internet access permissions and with a quick access icon for my smartphone.
 
@@ -20,11 +21,13 @@ If you want to build from source just do
 
 ##Using
 Please change AdMob Adunit ID to your AdunitID ads:adUnitId="ca-app-pub-XXX"
+
 https://github.com/mishop/2048-chemistry-android/blob/master/res/layout/activity_main.xml#L26
-ads:adUnitId="ca-app-pub-XXX"
+
 
 ##Thanks
 Gabriele Cirulli (Original Game) https://github.com/gabrielecirulli/2048 
+
 Paul Sarbinowski (Android Port webview) https://github.com/uberspot/2048-android
 
 ##License
